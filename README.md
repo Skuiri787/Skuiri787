@@ -93,6 +93,8 @@ Interactive healthcare analytics project covering hospital revenue, patient visi
 
 End-to-end exploratory data analysis covering booking patterns, cancellations, customer segments, ADR, lead time, and seasonal trends.
 
+**[View Project →](https://github.com/Skuiri787/Hospital_Booking_Applicationn-eda1)**
+
 ### 🐦 Twitter Advertising A/B Testing
 **Python · Pandas · SciPy · Statsmodels · Statistical Testing**
 
@@ -104,11 +106,6 @@ Evaluated click-based versus impression-based billing to determine whether impre
 **Python · Pandas · EDA · Machine Learning**
 
 Analyzed social media advertising campaigns and explored campaign performance and conversion-related patterns using data analysis and machine learning.
-
-### 🏠 House Price Prediction
-**Python · Pandas · Machine Learning**
-
-Machine learning project based on the Kaggle House Prices dataset, focused on predicting residential property prices.
 
 ---
 
