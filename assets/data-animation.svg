@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="Animated data science visualization">
+<rect width="1200" height="150" rx="18" fill="#0d1117"/>
+<g fill="none" stroke="#30363d" stroke-width="1">
+<path d="M0 120H1200M0 90H1200M0 60H1200M0 30H1200"/>
+<path d="M100 0V150M300 0V150M500 0V150M700 0V150M900 0V150M1100 0V150"/>
+</g>
+<path d="M0 112 C90 112 105 38 190 70 S300 125 380 62 S500 30 575 82 S700 120 780 52 S900 35 980 78 S1090 115 1200 42" fill="none" stroke="#58a6ff" stroke-width="3">
+<animate attributeName="stroke-dasharray" values="1 30;30 1;1 30" dur="4s" repeatCount="indefinite"/>
+</path>
+<g fill="#a371f7">
+<circle cx="190" cy="70" r="4"><animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/></circle>
+<circle cx="380" cy="62" r="4"><animate attributeName="r" values="3;7;3" dur="2.4s" repeatCount="indefinite"/></circle>
+<circle cx="575" cy="82" r="4"><animate attributeName="r" values="3;7;3" dur="2.1s" repeatCount="indefinite"/></circle>
+<circle cx="780" cy="52" r="4"><animate attributeName="r" values="3;7;3" dur="2.6s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="78" r="4"><animate attributeName="r" values="3;7;3" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+<text x="600" y="27" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#8b949e">DATA  →  INSIGHT  →  MODEL</text>
+</svg>
