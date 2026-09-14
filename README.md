@@ -76,32 +76,49 @@ Machine Learning / Data Science
 
 Analyzed IPL data to understand RCB's performance gaps and identify data-driven factors behind its lack of an IPL title.
 
-[View Project →](https://github.com/Skuiri787/rcb-ipl-performance-analysis)
+[View Project →](https://github.com/Skuiri787/rcb_ipl_performance_analysis)
 
-### 🏥 Hospital Analytics Dashboard
-**Power BI · SQL · DAX · Power Query**
+### 📞 AstroSage Call Center Optimization
+**Microsoft Excel · Pivot Tables · Data Analysis**
+
+Analyzed 28,027 call records and developed a ₹1 Crore investment allocation strategy to improve call-center efficiency, customer satisfaction, and revenue performance.
+
+[View Project →](https://github.com/Skuiri787/Astrosage_Analysis)
+
+### 🏥 Columbia Asia Hospital Analytics Dashboard
+**Power BI · SQL · DAX · Power Query · Excel**
 
 Interactive healthcare analytics project covering hospital revenue, patient visits, waiting time, satisfaction, departments, and doctor performance.
+
+[View Project →](https://github.com/Skuiri787/Colombia_Asia_Hospital)
 
 ### 🏨 Hotel Booking EDA
 **Python · Pandas · NumPy · Matplotlib · Seaborn**
 
 End-to-end exploratory data analysis covering booking patterns, cancellations, customer segments, ADR, lead time, and seasonal trends.
 
+*Repository coming soon.*
+
 ### 🐦 Twitter Advertising A/B Testing
 **Python · Pandas · SciPy · Statsmodels · Statistical Testing**
 
 Evaluated click-based versus impression-based billing to determine whether impression-based billing reduces advertiser overspending.
+
+[View Project →](https://github.com/Skuiri787/Twitter_AB_Testing)
 
 ### 📱 Social Media Advertising Analysis & Conversion Prediction
 **Python · Pandas · EDA · Machine Learning**
 
 Analyzed social media advertising campaigns and explored campaign performance and conversion-related patterns using data analysis and machine learning.
 
+*Repository coming soon.*
+
 ### 🏠 House Price Prediction
 **Python · Pandas · Machine Learning**
 
 Machine learning project based on the Kaggle House Prices dataset, focused on predicting residential property prices.
+
+*Repository coming soon.*
 
 ---
 
@@ -121,9 +138,11 @@ Machine learning project based on the Kaggle House Prices dataset, focused on pr
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Skuiri787&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+<img src="https://img.shields.io/github/followers/Skuiri787?style=for-the-badge&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/stars/Skuiri787?style=for-the-badge&label=Total%20Stars" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/repos/Skuiri787?style=for-the-badge&label=Public%20Repos" alt="Public Repositories" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skuiri787&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skuiri787&theme=transparent&hide_border=true" alt="GitHub Streak" />
 
@@ -135,17 +154,11 @@ Machine learning project based on the Kaggle House Prices dataset, focused on pr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Skuiri787&theme=github-compact&hide_border=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Skuiri787&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skuiri787/Skuiri787/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skuiri787/Skuiri787/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Skuiri787/Skuiri787/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
