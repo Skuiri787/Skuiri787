@@ -5,7 +5,7 @@
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Skuiri787?style=for-the-badge&logo=github&label=Followers)](https://github.com/Skuiri787)
-[![Profile Views](https://komarev.com/ghpvc/?username=Skuiri787&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/Skuiri787)
+[![Profile Views](https://komarev.com/ghpvc/?username=Skuiri787&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://komarev.com/ghpvc/?username=Skuiri787)
 [![GitHub Stars](https://img.shields.io/github/stars/Skuiri787?style=for-the-badge&logo=github&label=Stars)](https://github.com/Skuiri787?tab=repositories)
 
 </div>
@@ -160,6 +160,7 @@ Analyzed social media advertising campaigns and explored campaign performance an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-prasad-kuiri-640705194/)
 [![GitHub](https://img.shields.io/badge/GitHub-Skuiri787-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skuiri787)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shubhamkuiri787)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shubham_kuiri/)
 
 </div>
 
